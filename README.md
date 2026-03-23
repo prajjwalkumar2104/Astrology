@@ -1,4 +1,3 @@
-````
 # 🌌 Drishya: AI-Powered Vedic Astrology Portal
 
 **Drishya** is a modern, immersive web application that blends ancient Vedic wisdom with cutting-edge Artificial Intelligence. Built with **Next.js 14**, it offers users personalized cosmic insights, dynamic zodiac exploration, and a deep-space editorial experience.
